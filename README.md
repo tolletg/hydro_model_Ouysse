@@ -1,4 +1,4 @@
-Ce dépôt contient le modèle hydrogéologique de l'**Ouysse**.  
+Ce dépôt contient le modèle de prévision des débits de l'Ouysse.  
 Il est développé en Python et peut être exécuté sur Windows via un environnement virtuel.
 
 ---
