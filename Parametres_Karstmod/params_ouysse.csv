@@ -1,0 +1,13 @@
+﻿RA (km2);650
+C0 (mm);16.7804
+kCS (mm/hour);0.239132
+E0 (mm);19.1203
+kEC (mm/hour);1.03E-05
+kEM (mm/hour);0.000364827
+M0 (mm);9.44451
+kMS (mm/hour);0.0280713
+kMC (mm/hour);0.00164179
+alphaMC;2.05963
+alphaMS;3.59273
+WOBJ value (calibration stage);0.819842
+WOBJ value (validation stage);0.903923

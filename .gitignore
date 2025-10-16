@@ -1,0 +1,15 @@
+# Ignorer l'environnement virtuel
+venv_model_ouysse/
+
+# Ignorer les fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers de notebook checkpoint
+.ipynb_checkpoints/
+
+# Ignorer les fichiers système Windows/mac
+Thumbs.db
+.DS_Store
